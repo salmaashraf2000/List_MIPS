@@ -98,3 +98,10 @@ void ProcessAllRequests()
 }
 
 ```
+Output
+character: c priority: 1
+character: b priority: 2
+character: k priority: 3
+character: a priority: 4
+character: d priority: 5
+
