@@ -112,9 +112,9 @@ void Quicksort(entry a[],int low,int high)
 
 
 **Output of program will be like this**
--character: c priority: 1
--character: b priority: 2
--character: k priority: 3
--character: a priority: 4
--character: d priority: 5
+>character: c priority: 1<br />
+>character: b priority: 2<br />
+>character: k priority: 3<br />
+>character: a priority: 4<br />
+>character: d priority: 5<br />
 
